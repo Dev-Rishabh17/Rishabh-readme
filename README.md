@@ -10,38 +10,37 @@ Built with obsession, discipline, and a long-term vision for tech mastery.
 <!-- ================= TYPING ANIMATION ================= -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=500&color=00F5FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Rishabh+Sharma;Future+SDE;DSA+%7C+Full+Stack+%7C+System+Design;Tech-enthusiast" />
-
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=500&color=00F5FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Rishabh+Sharma;Future+Software+Development+Engineer;DSA+%7C+Backend+%7C+Systems+Thinking;Long-Term+Tech+Mastery+%E2%9A%A1" alt="Typing animation"/>
   </a>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
+
 <!-- ================= ABOUT SECTION ================= -->
-<table align="center">
-<tr>
-<td width="45%" align="center">
 
-<img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID"
-width="230"
-style="
-border-radius: 22px;
-box-shadow: 0 0 35px rgba(0,245,255,0.7);
-"/>
-
-<br/><br/>
-
-<img src="https://www.terminalgif.com/assets/terminal.gif" width="90%" alt="Terminal Skills Loading"/>
-
-</td>
-
-<td width="55%">
+<div align="center">
 
 ### 👨‍💻 About Me
-```txt
-🎓 B.Tech Student
-🧠 Strong in DSA & problem solving
-⚙️ Backend-focused with system thinking
-🚀 Aspiring Software Development Engineer
-🔥 Daily LeetCode & Codeforces grind
-📈 Mission: Long-term tech mastery
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID" 
+           width="180" 
+           style="border-radius: 50%; border: 3px solid #00F5FF; padding: 5px;"/>
+    </td>
+    <td align="left">
+      <p>🎓 <b>B.Tech Student</b></p>
+      <p>🧠 <b>Strong in DSA & problem solving</b></p>
+      <p>⚙️ <b>Backend-focused with system thinking</b></p>
+      <p>🚀 <b>Aspiring Software Development Engineer</b></p>
+      <p>🔥 <b>Daily LeetCode & Codeforces grind</b></p>
+      <p>📈 <b>Mission: Long-term tech mastery</b></p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
