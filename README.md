@@ -1,7 +1,7 @@
 <!--
 👋 Hey there, I'm Rishabh Sharma
 Welcome to my GitHub profile.
-Built with obsession, discipline, and a long-term vision for tech mastery.
+Built with obsession, discipline, and a long-term vision for tech.
 -->
 
 <!-- ================= HEADER ================= -->
